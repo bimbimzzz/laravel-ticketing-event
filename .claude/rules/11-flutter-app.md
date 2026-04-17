@@ -2,7 +2,7 @@
 
 ## Project Location
 - **Path**: `/Users/bahri/development/fic22/trial/flutter_ayo_piknik`
-- **Package Name**: `flutter_JagoEvent`
+- **Package Name**: `flutter_KarcisDigital`
 - **State Management**: flutter_bloc
 - **HTTP Client**: dart:http package
 

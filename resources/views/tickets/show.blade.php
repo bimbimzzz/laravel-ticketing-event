@@ -1,4 +1,4 @@
-<x-layouts.landing title="E-Ticket - JagoEvent" :navDark="true">
+<x-layouts.landing title="E-Ticket - KarcisDigital" :navDark="true">
     @php
         $statusCfg = match ($ticket->status) {
             'sold' => ['bg-emerald-50 text-emerald-700 ring-emerald-600/20', 'Berlaku'],

@@ -1,4 +1,4 @@
-@props(['title' => 'Admin - JagoEvent'])
+@props(['title' => 'Admin - KarcisDigital'])
 
 <!DOCTYPE html>
 <html lang="id">
@@ -34,7 +34,7 @@
                     </svg>
                 </div>
                 <div>
-                    <span class="text-base font-bold text-surface-900">JagoEvent</span>
+                    <span class="text-base font-bold text-surface-900">KarcisDigital</span>
                     <span class="block text-[10px] text-primary-500 uppercase tracking-widest font-semibold">Super
                         Admin</span>
                 </div>

@@ -1,4 +1,4 @@
-@props(['title' => 'JagoEvent - Marketplace Tiket Event', 'navDark' => false])
+@props(['title' => 'KarcisDigital - Marketplace Tiket Event', 'navDark' => false])
 
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
@@ -34,7 +34,7 @@
                             </svg>
                         </div>
                         <span class="text-xl font-bold"
-                            :class="(scrolled || solid) ? 'text-surface-900' : 'text-white'">JagoEvent</span>
+                            :class="(scrolled || solid) ? 'text-surface-900' : 'text-white'">KarcisDigital</span>
                     </a>
 
                     {{-- Desktop Nav --}}

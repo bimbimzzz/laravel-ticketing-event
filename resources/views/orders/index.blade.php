@@ -1,4 +1,4 @@
-<x-layouts.landing title="Pesanan Saya - JagoEvent" :navDark="true">
+<x-layouts.landing title="Pesanan Saya - KarcisDigital" :navDark="true">
     @php
         $categorySeeds = [
             'Musik' => [1015, 1033, 1044],
@@ -299,7 +299,7 @@
     <footer class="bg-surface-900 mt-8">
         <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="py-4 flex flex-col sm:flex-row items-center justify-between gap-2">
-                <p class="text-xs text-surface-600">&copy; {{ date('Y') }} JagoEvent. All rights reserved.</p>
+                <p class="text-xs text-surface-600">&copy; {{ date('Y') }} KarcisDigital. All rights reserved.</p>
                 <p class="text-xs text-surface-600">Powered by <a href="https://jagoflutter.com" target="_blank"
                         class="text-primary-400 hover:text-primary-300 font-medium transition-colors">JagoFlutter.com</a>
                 </p>

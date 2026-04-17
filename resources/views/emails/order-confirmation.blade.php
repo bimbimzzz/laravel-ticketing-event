@@ -21,7 +21,7 @@
                             style="background: linear-gradient(135deg, #4f46e5, #7c3aed); border-radius: 12px 12px 0 0; padding: 30px 40px; text-align: center;">
                             <h1
                                 style="margin: 0; color: #ffffff; font-size: 24px; font-weight: 700; letter-spacing: -0.5px;">
-                                JagoEvent</h1>
+                                KarcisDigital</h1>
                             <p style="margin: 5px 0 0; color: rgba(255,255,255,0.8); font-size: 13px;">Platform Tiket
                                 Event Terpercaya</p>
                         </td>
@@ -189,7 +189,7 @@
                                             Informasi Penting</p>
                                         <p style="margin: 0; color: #3b82f6; font-size: 13px; line-height: 1.5;">
                                             Setelah pembayaran berhasil, e-ticket akan dikirim ke email ini. Anda juga
-                                            bisa mengakses e-ticket melalui website JagoEvent.</p>
+                                            bisa mengakses e-ticket melalui website KarcisDigital.</p>
                                     </td>
                                 </tr>
                             </table>
@@ -206,7 +206,7 @@
                                     style="color: #4f46e5; text-decoration: none; font-weight: 500;">support@jagon8n.com</a>
                             </p>
                             <p style="margin: 0; color: #9ca3af; font-size: 12px;">&copy; {{ date('Y') }}
-                                JagoEvent. All rights reserved.</p>
+                                KarcisDigital. All rights reserved.</p>
                         </td>
                     </tr>
 

@@ -1,4 +1,4 @@
-<x-layouts.app title="Tambah SKU - JagoEvent">
+<x-layouts.app title="Tambah SKU - KarcisDigital">
     <x-slot:header>Tambah Tipe Tiket</x-slot:header>
     <div class="max-w-2xl mx-auto space-y-6">
         <div>

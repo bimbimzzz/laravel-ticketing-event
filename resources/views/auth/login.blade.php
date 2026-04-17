@@ -1,4 +1,4 @@
-@props(['title' => 'Masuk - JagoEvent'])
+@props(['title' => 'Masuk - KarcisDigital'])
 
 <!DOCTYPE html>
 <html lang="id">
@@ -36,7 +36,7 @@
                                 d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
                         </svg>
                     </div>
-                    <span class="text-2xl font-bold text-white">JagoEvent</span>
+                    <span class="text-2xl font-bold text-white">KarcisDigital</span>
                 </a>
 
                 {{-- Center Content --}}
@@ -71,7 +71,7 @@
                 {{-- Testimonial --}}
                 <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6">
                     <p class="text-white/90 text-sm italic leading-relaxed">
-                        "JagoEvent bikin beli tiket jadi gampang banget. Tinggal pilih, bayar, dan langsung dapat
+                        "KarcisDigital bikin beli tiket jadi gampang banget. Tinggal pilih, bayar, dan langsung dapat
                         e-ticket. Recommended!"
                     </p>
                     <div class="mt-4 flex items-center gap-3">
@@ -98,13 +98,13 @@
                                 d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
                         </svg>
                     </div>
-                    <span class="text-xl font-bold text-surface-900">JagoEvent</span>
+                    <span class="text-xl font-bold text-surface-900">KarcisDigital</span>
                 </div>
 
                 {{-- Header --}}
                 <div class="mb-8">
                     <h2 class="text-2xl font-bold text-surface-900">Selamat Datang Kembali</h2>
-                    <p class="mt-2 text-surface-500">Masuk ke akun JagoEvent kamu</p>
+                    <p class="mt-2 text-surface-500">Masuk ke akun KarcisDigital kamu</p>
                 </div>
 
                 {{-- Error Alert --}}
@@ -192,7 +192,7 @@
                             <span class="text-xs font-semibold text-surface-700">User</span>
                         </button>
                         <button type="button"
-                            onclick="document.getElementById('email').value='andi@JagoEvent.com';document.getElementById('password').value='password';"
+                            onclick="document.getElementById('email').value='andi@KarcisDigital.com';document.getElementById('password').value='password';"
                             class="flex flex-col items-center gap-1.5 p-3 border border-surface-200 rounded-xl hover:border-emerald-300 hover:bg-emerald-50 transition-colors cursor-pointer group">
                             <div
                                 class="w-8 h-8 bg-emerald-100 rounded-full flex items-center justify-center group-hover:bg-emerald-200 transition-colors">

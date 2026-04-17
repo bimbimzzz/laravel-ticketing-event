@@ -1,4 +1,4 @@
-# JagoEvent — Event Ticketing Marketplace
+# KarcisDigital — Event Ticketing Marketplace
 
 Platform marketplace tiket event berbasis web. Vendor bisa membuat event, menambah tipe tiket (SKU), dan menjual tiket ke buyer. Dilengkapi dengan panel admin, pembayaran online, dan e-ticket dengan QR code.
 
@@ -250,7 +250,7 @@ php artisan serve
 ```env
 # Database
 DB_CONNECTION=mysql
-DB_DATABASE=JagoEvent
+DB_DATABASE=KarcisDigital
 
 # Xendit
 XENDIT_SECRET_KEY=your_xendit_secret_key

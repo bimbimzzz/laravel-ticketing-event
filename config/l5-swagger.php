@@ -5,7 +5,7 @@ return [
     'documentations' => [
         'default' => [
             'api' => [
-                'title' => 'JagoEvent API Documentation',
+                'title' => 'KarcisDigital API Documentation',
             ],
 
             'routes' => [

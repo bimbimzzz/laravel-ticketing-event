@@ -21,7 +21,7 @@
                             style="background: linear-gradient(135deg, #4f46e5, #7c3aed); border-radius: 12px 12px 0 0; padding: 30px 40px; text-align: center;">
                             <h1
                                 style="margin: 0; color: #ffffff; font-size: 24px; font-weight: 700; letter-spacing: -0.5px;">
-                                JagoEvent</h1>
+                                KarcisDigital</h1>
                             <p style="margin: 5px 0 0; color: rgba(255,255,255,0.8); font-size: 13px;">Platform Tiket
                                 Event Terpercaya</p>
                         </td>
@@ -52,7 +52,7 @@
                                     {{ $vendor->user->name ?? $vendor->name }}</h3>
                                 <p style="margin: 0 0 25px; color: #4b5563; font-size: 15px; line-height: 1.6;">Selamat!
                                     Akun vendor <strong>{{ $vendor->name }}</strong> telah berhasil diverifikasi. Anda
-                                    sekarang bisa mulai membuat event dan menjual tiket di JagoEvent.</p>
+                                    sekarang bisa mulai membuat event dan menjual tiket di KarcisDigital.</p>
 
                                 {{-- What You Can Do --}}
                                 <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
@@ -154,7 +154,7 @@
                                     style="color: #4f46e5; text-decoration: none; font-weight: 500;">support@jagon8n.com</a>
                             </p>
                             <p style="margin: 0; color: #9ca3af; font-size: 12px;">&copy; {{ date('Y') }}
-                                JagoEvent. All rights reserved.</p>
+                                KarcisDigital. All rights reserved.</p>
                         </td>
                     </tr>
 

@@ -52,7 +52,7 @@ class DemoSeeder extends Seeder
 
         // --- Super Admin ---
         User::create([
-            'name' => 'Admin JagoEvent',
+            'name' => 'Admin KarcisDigital',
             'email' => 'admin@admin.com',
             'email_verified_at' => now(),
             'password' => $password,
@@ -66,7 +66,7 @@ class DemoSeeder extends Seeder
             // --- Vendors ---
             [
                 'name' => 'Andi Pratama',
-                'email' => 'andi@JagoEvent.com',
+                'email' => 'andi@KarcisDigital.com',
                 'email_verified_at' => now(),
                 'password' => $password,
                 'phone' => '081234567001',
@@ -76,7 +76,7 @@ class DemoSeeder extends Seeder
             ],
             [
                 'name' => 'Siti Rahayu',
-                'email' => 'siti@JagoEvent.com',
+                'email' => 'siti@KarcisDigital.com',
                 'email_verified_at' => now(),
                 'password' => $password,
                 'phone' => '081234567002',
@@ -86,7 +86,7 @@ class DemoSeeder extends Seeder
             ],
             [
                 'name' => 'Budi Santoso',
-                'email' => 'budi@JagoEvent.com',
+                'email' => 'budi@KarcisDigital.com',
                 'email_verified_at' => now(),
                 'password' => $password,
                 'phone' => '081234567003',
@@ -96,7 +96,7 @@ class DemoSeeder extends Seeder
             ],
             [
                 'name' => 'Dewi Lestari',
-                'email' => 'dewi@JagoEvent.com',
+                'email' => 'dewi@KarcisDigital.com',
                 'email_verified_at' => now(),
                 'password' => $password,
                 'phone' => '081234567004',
@@ -106,7 +106,7 @@ class DemoSeeder extends Seeder
             ],
             [
                 'name' => 'Rizky Firmansyah',
-                'email' => 'rizky@JagoEvent.com',
+                'email' => 'rizky@KarcisDigital.com',
                 'email_verified_at' => now(),
                 'password' => $password,
                 'phone' => '081234567005',
@@ -177,7 +177,7 @@ class DemoSeeder extends Seeder
         $vendorRecords = [
             [
                 'user_id' => $vendorUsers[0],
-                'name' => 'JagoEvent Production',
+                'name' => 'KarcisDigital Production',
                 'description' => 'Event organizer profesional untuk konser musik, festival, dan acara hiburan berskala nasional. Berpengalaman menangani event hingga 10.000 peserta.',
                 'location' => 'Jl. Sudirman No. 123, Senayan',
                 'phone' => '021-5551234',

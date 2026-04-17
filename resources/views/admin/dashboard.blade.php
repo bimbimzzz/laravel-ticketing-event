@@ -1,4 +1,4 @@
-<x-layouts.admin title="Dashboard - Admin JagoEvent">
+<x-layouts.admin title="Dashboard - Admin KarcisDigital">
     <x-slot:header>Dashboard</x-slot:header>
 
     {{-- Stats --}}

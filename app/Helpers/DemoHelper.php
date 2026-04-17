@@ -9,11 +9,11 @@ class DemoHelper
      */
     public const DEMO_EMAILS = [
         'admin@admin.com',
-        'andi@JagoEvent.com',
-        'siti@JagoEvent.com',
-        'budi@JagoEvent.com',
-        'dewi@JagoEvent.com',
-        'rizky@JagoEvent.com',
+        'andi@KarcisDigital.com',
+        'siti@KarcisDigital.com',
+        'budi@KarcisDigital.com',
+        'dewi@KarcisDigital.com',
+        'rizky@KarcisDigital.com',
         'mega@gmail.com',
         'fajar@gmail.com',
         'anisa@gmail.com',

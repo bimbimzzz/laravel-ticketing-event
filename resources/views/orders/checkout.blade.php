@@ -1,4 +1,4 @@
-<x-layouts.landing title="Checkout - JagoEvent" :navDark="true">
+<x-layouts.landing title="Checkout - KarcisDigital" :navDark="true">
     @php
         $categorySeeds = [
             'Musik' => [1015, 1033, 1044],

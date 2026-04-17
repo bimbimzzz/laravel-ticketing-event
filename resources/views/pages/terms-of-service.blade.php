@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms of Service - JagoEvent</title>
+    <title>Terms of Service - KarcisDigital</title>
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=inter:400,500,600,700" rel="stylesheet" />
     <style>
@@ -108,7 +108,7 @@
 <body>
     <div class="header">
         <h1>Terms of Service</h1>
-        <p>JagoEvent - Marketplace Tiket Event</p>
+        <p>KarcisDigital - Marketplace Tiket Event</p>
     </div>
 
     <div class="container">
@@ -116,11 +116,11 @@
             <p class="updated">Terakhir diperbarui: 12 Maret 2026</p>
 
             <h2>1. Penerimaan Ketentuan</h2>
-            <p>Dengan menggunakan aplikasi JagoEvent, Anda menyetujui dan terikat dengan syarat dan ketentuan
+            <p>Dengan menggunakan aplikasi KarcisDigital, Anda menyetujui dan terikat dengan syarat dan ketentuan
                 layanan ini. Jika Anda tidak menyetujui ketentuan ini, harap tidak menggunakan layanan kami.</p>
 
             <h2>2. Deskripsi Layanan</h2>
-            <p>JagoEvent adalah platform marketplace yang mempertemukan penyelenggara event (vendor) dengan pembeli
+            <p>KarcisDigital adalah platform marketplace yang mempertemukan penyelenggara event (vendor) dengan pembeli
                 tiket. Kami menyediakan:</p>
             <ul>
                 <li>Platform bagi vendor untuk membuat dan mengelola event.</li>
@@ -150,7 +150,7 @@
                 <li>Vendor harus melalui proses verifikasi sebelum dapat mengelola event.</li>
                 <li>Vendor bertanggung jawab penuh atas keakuratan informasi event.</li>
                 <li>Vendor wajib menyelenggarakan event sesuai dengan yang diiklankan.</li>
-                <li>JagoEvent berhak menangguhkan akun vendor yang melanggar ketentuan.</li>
+                <li>KarcisDigital berhak menangguhkan akun vendor yang melanggar ketentuan.</li>
             </ul>
 
             <h2>6. Larangan</h2>
@@ -164,7 +164,7 @@
             </ul>
 
             <h2>7. Batasan Tanggung Jawab</h2>
-            <p>JagoEvent bertindak sebagai perantara antara vendor dan pembeli. Kami tidak bertanggung jawab atas:
+            <p>KarcisDigital bertindak sebagai perantara antara vendor dan pembeli. Kami tidak bertanggung jawab atas:
             </p>
             <ul>
                 <li>Kualitas atau pelaksanaan event yang diselenggarakan vendor.</li>
@@ -173,7 +173,7 @@
             </ul>
 
             <h2>8. Hak Kekayaan Intelektual</h2>
-            <p>Seluruh konten, desain, dan teknologi dalam aplikasi JagoEvent merupakan milik kami dan dilindungi
+            <p>Seluruh konten, desain, dan teknologi dalam aplikasi KarcisDigital merupakan milik kami dan dilindungi
                 oleh hukum hak kekayaan intelektual yang berlaku.</p>
 
             <h2>9. Perubahan Ketentuan</h2>
@@ -187,13 +187,13 @@
             <h2>11. Hubungi Kami</h2>
             <p>Untuk pertanyaan mengenai syarat dan ketentuan ini:</p>
             <ul>
-                <li>Email: <a href="mailto:support@JagoEvent.com">support@JagoEvent.com</a></li>
+                <li>Email: <a href="mailto:support@KarcisDigital.com">support@KarcisDigital.com</a></li>
             </ul>
         </div>
     </div>
 
     <div class="footer">
-        &copy; {{ date('Y') }} JagoEvent. All rights reserved.
+        &copy; {{ date('Y') }} KarcisDigital. All rights reserved.
     </div>
 </body>
 

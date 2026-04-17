@@ -20,7 +20,7 @@ class VendorStatusMail extends Mailable
     {
         $label = $this->newStatus === 'approved' ? 'Disetujui' : 'Ditolak';
         return new Envelope(
-            subject: "Vendor {$label} - JagoEvent",
+            subject: "Vendor {$label} - KarcisDigital",
         );
     }
 

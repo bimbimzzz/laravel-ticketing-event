@@ -20,7 +20,7 @@ class EticketMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'E-Ticket Pesanan #' . $this->order->id . ' - JagoEvent',
+            subject: 'E-Ticket Pesanan #' . $this->order->id . ' - KarcisDigital',
         );
     }
 

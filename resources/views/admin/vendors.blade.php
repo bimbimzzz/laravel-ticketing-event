@@ -1,4 +1,4 @@
-<x-layouts.admin title="Vendors - Admin JagoEvent">
+<x-layouts.admin title="Vendors - Admin KarcisDigital">
     <x-slot:header>Vendors</x-slot:header>
 
     <div x-data="{ showModal: false, modalAction: '', modalVendor: '', modalVendorId: '' }" class="relative">

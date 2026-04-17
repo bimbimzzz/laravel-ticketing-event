@@ -34,7 +34,7 @@ class TestEmailFlow extends Command
 
         $vendor = Vendor::first() ?? Vendor::create([
             'user_id' => User::factory()->create()->id,
-            'name' => 'JagoEvent Production',
+            'name' => 'KarcisDigital Production',
             'description' => 'Event organizer terpercaya',
             'location' => 'Jakarta',
             'city' => 'Jakarta',
@@ -47,7 +47,7 @@ class TestEmailFlow extends Command
         $event = Event::create([
             'vendor_id' => $vendor->id,
             'event_category_id' => $category->id,
-            'name' => 'JagoEvent Music Festival 2026',
+            'name' => 'KarcisDigital Music Festival 2026',
             'description' => 'Festival musik terbesar tahun ini!',
             'image' => 'test.png',
             'start_date' => now()->addDays(7),

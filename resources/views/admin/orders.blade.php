@@ -1,4 +1,4 @@
-<x-layouts.admin title="Orders - Admin JagoEvent">
+<x-layouts.admin title="Orders - Admin KarcisDigital">
     <x-slot:header>Orders</x-slot:header>
 
     <div class="bg-white rounded-xl border border-surface-200">

@@ -6,16 +6,16 @@ use OpenApi\Attributes as OA;
 
 #[OA\Info(
     version: '1.0.0',
-    title: 'JagoEvent Ticketing API',
-    description: 'REST API untuk aplikasi JagoEvent — marketplace tiket event. Digunakan oleh aplikasi mobile Flutter untuk browse events, order tickets, manage vendor, dan validasi tiket.',
+    title: 'KarcisDigital Ticketing API',
+    description: 'REST API untuk aplikasi KarcisDigital — marketplace tiket event. Digunakan oleh aplikasi mobile Flutter untuk browse events, order tickets, manage vendor, dan validasi tiket.',
     contact: new OA\Contact(
-        name: 'JagoEvent Support',
-        email: 'support@JagoEvent.com'
+        name: 'KarcisDigital Support',
+        email: 'support@KarcisDigital.com'
     )
 )]
 #[OA\Server(
     url: '/api',
-    description: 'JagoEvent API'
+    description: 'KarcisDigital API'
 )]
 #[OA\SecurityScheme(
     securityScheme: 'sanctum',

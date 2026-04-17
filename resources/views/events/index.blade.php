@@ -1,4 +1,4 @@
-<x-layouts.landing title="Event - JagoEvent">
+<x-layouts.landing title="Event - KarcisDigital">
     <div class="min-h-screen bg-surface-50">
 
         {{-- Hero Header --}}
@@ -389,7 +389,7 @@
                                     d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
                             </svg>
                         </div>
-                        <span class="text-lg font-bold text-white">JagoEvent</span>
+                        <span class="text-lg font-bold text-white">KarcisDigital</span>
                     </div>
                     <p class="text-sm text-surface-400 leading-relaxed">Platform marketplace tiket event terpercaya di
                         Indonesia.</p>
@@ -432,9 +432,9 @@
                 </div>
             </div>
             <div class="py-5 border-t border-surface-800 flex flex-col sm:flex-row items-center justify-between gap-2">
-                <p class="text-xs text-surface-600">&copy; {{ date('Y') }} JagoEvent. All rights reserved.</p>
-                <p class="text-xs text-surface-600">Powered by <a href="https://jagoflutter.com" target="_blank"
-                        class="text-primary-400 hover:text-primary-300 font-medium transition-colors">JagoFlutter.com</a>
+                <p class="text-xs text-surface-600">&copy; {{ date('Y') }} KarcisDigital. All rights reserved.</p>
+                <p class="text-xs text-surface-600">Powered by <a href="" target="_blank"
+                        class="text-primary-400 hover:text-primary-300 font-medium transition-colors">KarcisDigital</a>
                 </p>
             </div>
         </div>

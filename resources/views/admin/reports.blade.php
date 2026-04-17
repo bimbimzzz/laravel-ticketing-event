@@ -1,4 +1,4 @@
-<x-layouts.admin title="Laporan - Admin JagoEvent">
+<x-layouts.admin title="Laporan - Admin KarcisDigital">
     <x-slot:header>Laporan & Analisis</x-slot:header>
 
     {{-- Period Filter --}}

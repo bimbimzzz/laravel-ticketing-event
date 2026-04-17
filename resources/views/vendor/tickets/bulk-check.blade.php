@@ -1,4 +1,4 @@
-<x-layouts.app title="Bulk Check-in - JagoEvent">
+<x-layouts.app title="Bulk Check-in - KarcisDigital">
     <x-slot:header>Bulk Check-in</x-slot:header>
     <div class="space-y-6">
         <div>

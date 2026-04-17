@@ -284,7 +284,7 @@
         {{-- Header --}}
         <div class="header">
             <div class="header-left">
-                <div class="brand">JagoEvent</div>
+                <div class="brand">KarcisDigital</div>
                 <div class="brand-sub">Platform Tiket Event Terpercaya</div>
             </div>
             <div class="header-right">
@@ -374,8 +374,8 @@
                 <p>3. Tiket tidak dapat dipindahtangankan setelah check-in.</p>
                 <p>4. Simpan dokumen ini sebagai bukti pembelian.</p>
             </div>
-            <p>Dokumen ini dibuat otomatis oleh sistem JagoEvent dan sah tanpa tanda tangan.</p>
-            <p>&copy; {{ date('Y') }} JagoEvent &middot; support@jagon8n.com</p>
+            <p>Dokumen ini dibuat otomatis oleh sistem KarcisDigital dan sah tanpa tanda tangan.</p>
+            <p>&copy; {{ date('Y') }} KarcisDigital &middot; support@jagon8n.com</p>
         </div>
 
     </div>

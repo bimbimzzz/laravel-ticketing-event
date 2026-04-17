@@ -1,4 +1,4 @@
-<x-layouts.app title="Detail Pesanan - JagoEvent">
+<x-layouts.app title="Detail Pesanan - KarcisDigital">
     <x-slot:header>Detail Pesanan</x-slot:header>
     <div class="max-w-3xl mx-auto space-y-6">
         <div>

@@ -109,7 +109,7 @@
 
 <body>
     <div class="header">
-        <h1>JagoEvent</h1>
+        <h1>KarcisDigital</h1>
         <p>Invoice / Bukti Pembayaran</p>
     </div>
 
@@ -169,7 +169,7 @@
     </table>
 
     <div class="footer">
-        <p>Terima kasih telah menggunakan JagoEvent</p>
+        <p>Terima kasih telah menggunakan KarcisDigital</p>
         <p>Invoice ini dibuat otomatis dan sah tanpa tanda tangan</p>
     </div>
 </body>

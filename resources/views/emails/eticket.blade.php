@@ -21,7 +21,7 @@
                             style="background: linear-gradient(135deg, #059669, #10b981); border-radius: 12px 12px 0 0; padding: 30px 40px; text-align: center;">
                             <h1
                                 style="margin: 0; color: #ffffff; font-size: 24px; font-weight: 700; letter-spacing: -0.5px;">
-                                JagoEvent</h1>
+                                KarcisDigital</h1>
                             <p style="margin: 8px 0 0; color: rgba(255,255,255,0.9); font-size: 14px;">Pembayaran
                                 Berhasil!</p>
                         </td>
@@ -192,7 +192,7 @@
                                     style="color: #4f46e5; text-decoration: none; font-weight: 500;">support@jagon8n.com</a>
                             </p>
                             <p style="margin: 0; color: #9ca3af; font-size: 12px;">&copy; {{ date('Y') }}
-                                JagoEvent. All rights reserved.</p>
+                                KarcisDigital. All rights reserved.</p>
                         </td>
                     </tr>
 

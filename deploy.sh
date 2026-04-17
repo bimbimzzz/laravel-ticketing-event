@@ -1,11 +1,11 @@
 #!/bin/bash
 set -e
 
-echo "🚀 Deploying JagoEvent..."
+echo "🚀 Deploying KarcisDigital..."
 
 # Pull latest code
 echo "📥 Pulling latest changes..."
-git pull origin JagoEvent
+git pull origin KarcisDigital
 
 # Install/update PHP dependencies
 echo "📦 Installing composer dependencies..."

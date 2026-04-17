@@ -1,4 +1,4 @@
-<x-layouts.landing title="Detail Pesanan - JagoEvent" :navDark="true">
+<x-layouts.landing title="Detail Pesanan - KarcisDigital" :navDark="true">
     <div class="min-h-screen bg-surface-50 pt-24 pb-12">
         <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 

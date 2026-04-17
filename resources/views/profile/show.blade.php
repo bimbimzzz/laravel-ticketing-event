@@ -1,4 +1,4 @@
-<x-layouts.landing title="Profil - JagoEvent" :navDark="true">
+<x-layouts.landing title="Profil - KarcisDigital" :navDark="true">
     <div class="max-w-2xl mx-auto py-12 px-4">
         <h1 class="text-2xl font-bold mb-6">Profil Saya</h1>
 

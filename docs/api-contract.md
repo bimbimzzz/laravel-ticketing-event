@@ -1,8 +1,8 @@
-# API Contract — JagoEvent Backend ↔ Flutter App
+# API Contract — KarcisDigital Backend ↔ Flutter App
 
 ## Flutter App
 - **Path**: `/Users/bahri/development/fic22/trial/flutter_ayo_piknik`
-- **Package**: `flutter_JagoEvent`
+- **Package**: `flutter_KarcisDigital`
 - **State Management**: BLoC
 - **HTTP**: dart:http with Bearer token auth
 

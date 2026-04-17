@@ -1,4 +1,4 @@
-<x-layouts.admin title="Refund Requests - Admin JagoEvent">
+<x-layouts.admin title="Refund Requests - Admin KarcisDigital">
     <x-slot:header>Refund Requests</x-slot:header>
 
     @if (session('success'))

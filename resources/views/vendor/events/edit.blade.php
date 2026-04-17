@@ -1,4 +1,4 @@
-<x-layouts.app title="Edit Event - JagoEvent">
+<x-layouts.app title="Edit Event - KarcisDigital">
     <x-slot:header>Edit Event</x-slot:header>
     <div class="max-w-2xl mx-auto space-y-6">
         <h1 class="text-2xl font-bold">Edit Event</h1>

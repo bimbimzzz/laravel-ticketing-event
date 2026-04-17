@@ -1,4 +1,4 @@
-@props(['title' => 'Daftar Vendor - JagoEvent'])
+@props(['title' => 'Daftar Vendor - KarcisDigital'])
 
 <!DOCTYPE html>
 <html lang="id">
@@ -36,7 +36,7 @@
                                 d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
                         </svg>
                     </div>
-                    <span class="text-2xl font-bold text-white">JagoEvent</span>
+                    <span class="text-2xl font-bold text-white">KarcisDigital</span>
                 </a>
 
                 {{-- Center Content --}}
@@ -46,7 +46,7 @@
                             Jual Tiket Event<br>Lebih Mudah
                         </h1>
                         <p class="mt-4 text-lg text-white/70 max-w-md">
-                            Bergabung sebagai vendor di JagoEvent. Kelola event, jual tiket, dan pantau penjualan
+                            Bergabung sebagai vendor di KarcisDigital. Kelola event, jual tiket, dan pantau penjualan
                             dalam satu platform.
                         </p>
                     </div>
@@ -98,7 +98,7 @@
                 {{-- Bottom --}}
                 <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6">
                     <p class="text-white/90 text-sm italic leading-relaxed">
-                        "Sejak pakai JagoEvent, penjualan tiket event kami naik 3x lipat. Dashboard-nya lengkap dan
+                        "Sejak pakai KarcisDigital, penjualan tiket event kami naik 3x lipat. Dashboard-nya lengkap dan
                         mudah dipakai."
                     </p>
                     <div class="mt-4 flex items-center gap-3">
@@ -107,7 +107,7 @@
                             AP</div>
                         <div>
                             <div class="text-sm font-semibold text-white">Andi Pratama</div>
-                            <div class="text-xs text-white/60">JagoEvent Production</div>
+                            <div class="text-xs text-white/60">KarcisDigital Production</div>
                         </div>
                     </div>
                 </div>
@@ -125,7 +125,7 @@
                                 d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
                         </svg>
                     </div>
-                    <span class="text-xl font-bold text-surface-900">JagoEvent</span>
+                    <span class="text-xl font-bold text-surface-900">KarcisDigital</span>
                 </div>
 
                 {{-- Header --}}
@@ -139,7 +139,7 @@
                         Vendor / Organizer
                     </div>
                     <h2 class="text-2xl font-bold text-surface-900">Daftar Sebagai Vendor</h2>
-                    <p class="mt-2 text-surface-500">Mulai jual tiket event kamu di JagoEvent</p>
+                    <p class="mt-2 text-surface-500">Mulai jual tiket event kamu di KarcisDigital</p>
                 </div>
 
                 {{-- Info Banner --}}

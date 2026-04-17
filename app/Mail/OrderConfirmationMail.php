@@ -19,7 +19,7 @@ class OrderConfirmationMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'Konfirmasi Pesanan #' . $this->order->id . ' - JagoEvent',
+            subject: 'Konfirmasi Pesanan #' . $this->order->id . ' - KarcisDigital',
         );
     }
 

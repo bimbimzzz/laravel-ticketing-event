@@ -1,4 +1,4 @@
-<x-layouts.admin title="Kategori - Admin JagoEvent">
+<x-layouts.admin title="Kategori - Admin KarcisDigital">
     <x-slot:header>Kategori Event</x-slot:header>
 
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">

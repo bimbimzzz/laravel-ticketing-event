@@ -1,4 +1,4 @@
-<x-layouts.landing title="Pembayaran Gagal - JagoEvent" :navDark="true">
+<x-layouts.landing title="Pembayaran Gagal - KarcisDigital" :navDark="true">
     <div class="min-h-screen bg-surface-50 pt-20 flex items-center justify-center px-4">
         <div class="max-w-md w-full">
             <div class="bg-white rounded-2xl border border-surface-200 shadow-sm overflow-hidden">

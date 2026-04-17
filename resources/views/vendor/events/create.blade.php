@@ -1,4 +1,4 @@
-<x-layouts.app title="Buat Event - JagoEvent">
+<x-layouts.app title="Buat Event - KarcisDigital">
     <x-slot:header>Buat Event</x-slot:header>
     <div class="max-w-2xl mx-auto space-y-6">
         <h1 class="text-2xl font-bold">Buat Event</h1>

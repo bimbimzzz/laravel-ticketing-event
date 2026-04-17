@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - JagoEvent</title>
+    <title>Privacy Policy - KarcisDigital</title>
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=inter:400,500,600,700" rel="stylesheet" />
     <style>
@@ -108,7 +108,7 @@
 <body>
     <div class="header">
         <h1>Privacy Policy</h1>
-        <p>JagoEvent - Marketplace Tiket Event</p>
+        <p>KarcisDigital - Marketplace Tiket Event</p>
     </div>
 
     <div class="container">
@@ -116,7 +116,7 @@
             <p class="updated">Terakhir diperbarui: 12 Maret 2026</p>
 
             <h2>1. Pendahuluan</h2>
-            <p>JagoEvent ("kami", "aplikasi") adalah platform marketplace tiket event yang menghubungkan
+            <p>KarcisDigital ("kami", "aplikasi") adalah platform marketplace tiket event yang menghubungkan
                 penyelenggara event (vendor) dengan pembeli tiket. Kami berkomitmen melindungi privasi pengguna.
                 Kebijakan ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi data pribadi Anda.
             </p>
@@ -198,13 +198,13 @@
             <h2>11. Hubungi Kami</h2>
             <p>Jika Anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi kami melalui:</p>
             <ul>
-                <li>Email: <a href="mailto:support@JagoEvent.com">support@JagoEvent.com</a></li>
+                <li>Email: <a href="mailto:support@KarcisDigital.com">support@KarcisDigital.com</a></li>
             </ul>
         </div>
     </div>
 
     <div class="footer">
-        &copy; {{ date('Y') }} JagoEvent. All rights reserved.
+        &copy; {{ date('Y') }} KarcisDigital. All rights reserved.
     </div>
 </body>
 

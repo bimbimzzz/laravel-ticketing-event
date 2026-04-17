@@ -1,4 +1,4 @@
-<x-layouts.app title="Event Saya - JagoEvent">
+<x-layouts.app title="Event Saya - KarcisDigital">
     <x-slot:header>Event Saya</x-slot:header>
     <div class="space-y-6">
         <div class="flex items-center justify-between">

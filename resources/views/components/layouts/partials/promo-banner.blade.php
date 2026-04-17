@@ -4,8 +4,8 @@
         <div class="flex items-center justify-center gap-x-3 py-2 text-sm flex-wrap">
             <span class="hidden sm:inline font-semibold text-amber-400">Mau Full Source Code?</span>
             <span class="text-surface-300 text-xs sm:text-sm">Dashboard Web + Mobile App Flutter &mdash; Join</span>
-            <a href="https://jagoflutter.com/JagoEvent" target="_blank" rel="noopener noreferrer" class="font-medium text-white underline underline-offset-2 hover:text-primary-300 transition-colors">jagoflutter.com/JagoEvent</a>
-            <a href="https://jagoflutter.com/JagoEvent" target="_blank" rel="noopener noreferrer" class="hidden sm:inline-flex items-center gap-1.5 px-3 py-1 bg-amber-500 text-surface-900 text-xs font-bold rounded-full hover:bg-amber-400 transition-colors">
+            <a href="https://jagoflutter.com/KarcisDigital" target="_blank" rel="noopener noreferrer" class="font-medium text-white underline underline-offset-2 hover:text-primary-300 transition-colors">jagoflutter.com/KarcisDigital</a>
+            <a href="https://jagoflutter.com/KarcisDigital" target="_blank" rel="noopener noreferrer" class="hidden sm:inline-flex items-center gap-1.5 px-3 py-1 bg-amber-500 text-surface-900 text-xs font-bold rounded-full hover:bg-amber-400 transition-colors">
                 Join Sekarang
                 <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
             </a>

@@ -1,4 +1,4 @@
-<x-layouts.app title="Dashboard Vendor - JagoEvent">
+<x-layouts.app title="Dashboard Vendor - KarcisDigital">
     <x-slot:header>Dashboard</x-slot:header>
     @php
         $vendor = auth()->user()->vendor;

@@ -1,4 +1,4 @@
-<x-layouts.app title="Validasi Tiket - JagoEvent">
+<x-layouts.app title="Validasi Tiket - KarcisDigital">
     <x-slot:header>Validasi Tiket</x-slot:header>
     <div class="max-w-lg mx-auto space-y-6">
         <div class="flex items-center justify-between">

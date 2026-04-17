@@ -663,166 +663,14 @@
         </div>
     </section>
 
-    {{-- JagoFlutter AFC Section --}}
-    <section class="py-20 lg:py-28 bg-surface-900 relative overflow-hidden">
-        <div class="absolute inset-0 opacity-10">
-            <div
-                style="background-image: radial-gradient(circle at 20% 50%, rgba(59,130,246,0.3) 0%, transparent 50%), radial-gradient(circle at 80% 50%, rgba(168,85,247,0.3) 0%, transparent 50%); width:100%; height:100%;">
-            </div>
-        </div>
-        <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="grid lg:grid-cols-2 gap-12 items-center">
-                {{-- Left: Text --}}
-                <div>
-                    <span
-                        class="inline-flex items-center px-3 py-1 text-xs font-semibold bg-primary-500/20 text-primary-300 rounded-full mb-4">JagoFlutter
-                        AFC</span>
-                    <h2 class="text-3xl sm:text-4xl font-bold text-white leading-tight">Mau Bikin Aplikasi Seperti Ini?
-                    </h2>
-                    <p class="mt-4 text-lg text-surface-300 leading-relaxed">
-                        JagoEvent adalah salah satu project di <strong class="text-white">Advanced Flutter Class
-                            (AFC)</strong> JagoFlutter. Dapatkan full source code Laravel backend + Flutter mobile app,
-                        video bedah kode, dan akses grup diskusi member.
-                    </p>
-                    <ul class="mt-6 space-y-3">
-                        <li class="flex items-center gap-3 text-surface-300">
-                            <svg class="w-5 h-5 text-emerald-400 flex-shrink-0" fill="none" stroke="currentColor"
-                                viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M5 13l4 4L19 7" />
-                            </svg>
-                            Source code diberikan di pertemuan Zoom pertama
-                        </li>
-                        <li class="flex items-center gap-3 text-surface-300">
-                            <svg class="w-5 h-5 text-emerald-400 flex-shrink-0" fill="none" stroke="currentColor"
-                                viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M5 13l4 4L19 7" />
-                            </svg>
-                            Full source code Laravel + Flutter
-                        </li>
-                        <li class="flex items-center gap-3 text-surface-300">
-                            <svg class="w-5 h-5 text-emerald-400 flex-shrink-0" fill="none" stroke="currentColor"
-                                viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M5 13l4 4L19 7" />
-                            </svg>
-                            Payment Gateway (Xendit) integration
-                        </li>
-                        <li class="flex items-center gap-3 text-surface-300">
-                            <svg class="w-5 h-5 text-emerald-400 flex-shrink-0" fill="none" stroke="currentColor"
-                                viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M5 13l4 4L19 7" />
-                            </svg>
-                            E-Ticket dengan QR Code & Email
-                        </li>
-                        <li class="flex items-center gap-3 text-surface-300">
-                            <svg class="w-5 h-5 text-emerald-400 flex-shrink-0" fill="none" stroke="currentColor"
-                                viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M5 13l4 4L19 7" />
-                            </svg>
-                            Admin panel, vendor dashboard, & deploy production
-                        </li>
-                        <li class="flex items-center gap-3 text-surface-300">
-                            <svg class="w-5 h-5 text-emerald-400 flex-shrink-0" fill="none" stroke="currentColor"
-                                viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M5 13l4 4L19 7" />
-                            </svg>
-                            Grup diskusi & support sesama member
-                        </li>
-                    </ul>
-                    <div class="mt-8">
-                        <a href="https://jagoflutter.com/JagoEvent" target="_blank" rel="noopener noreferrer"
-                            class="inline-flex items-center gap-2 px-8 py-4 bg-primary-600 text-white font-semibold rounded-xl hover:bg-primary-500 transition-colors shadow-lg shadow-primary-600/30">
-                            Dapatkan Full Source Code
-                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                            </svg>
-                        </a>
-                    </div>
-                </div>
 
-                {{-- Right: Tech Stack Card --}}
-                <div class="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-8">
-                    <h3 class="text-lg font-semibold text-white mb-6">Tech Stack yang Dipelajari</h3>
-                    <div class="grid grid-cols-2 gap-4">
-                        <div class="bg-white/5 rounded-xl p-4 text-center">
-                            <div
-                                class="w-10 h-10 mx-auto mb-2 rounded-lg bg-sky-500/20 flex items-center justify-center">
-                                <svg class="w-6 h-6 text-sky-400" fill="none" stroke="currentColor"
-                                    viewBox="0 0 24 24">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                        d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" />
-                                </svg>
-                            </div>
-                            <p class="text-sm font-medium text-white">Flutter</p>
-                            <p class="text-xs text-surface-400 mt-1">Mobile App</p>
-                        </div>
-                        <div class="bg-white/5 rounded-xl p-4 text-center">
-                            <div
-                                class="w-10 h-10 mx-auto mb-2 rounded-lg bg-red-500/20 flex items-center justify-center">
-                                <svg class="w-6 h-6 text-red-400" fill="none" stroke="currentColor"
-                                    viewBox="0 0 24 24">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                        d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2m-2-4h.01M17 16h.01" />
-                                </svg>
-                            </div>
-                            <p class="text-sm font-medium text-white">Laravel</p>
-                            <p class="text-xs text-surface-400 mt-1">Backend API</p>
-                        </div>
-                        <div class="bg-white/5 rounded-xl p-4 text-center">
-                            <div
-                                class="w-10 h-10 mx-auto mb-2 rounded-lg bg-emerald-500/20 flex items-center justify-center">
-                                <svg class="w-6 h-6 text-emerald-400" fill="none" stroke="currentColor"
-                                    viewBox="0 0 24 24">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                        d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
-                                </svg>
-                            </div>
-                            <p class="text-sm font-medium text-white">Xendit</p>
-                            <p class="text-xs text-surface-400 mt-1">Payment Gateway</p>
-                        </div>
-                        <div class="bg-white/5 rounded-xl p-4 text-center">
-                            <div
-                                class="w-10 h-10 mx-auto mb-2 rounded-lg bg-violet-500/20 flex items-center justify-center">
-                                <svg class="w-6 h-6 text-violet-400" fill="none" stroke="currentColor"
-                                    viewBox="0 0 24 24">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                        d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
-                                </svg>
-                            </div>
-                            <p class="text-sm font-medium text-white">Production</p>
-                            <p class="text-xs text-surface-400 mt-1">VPS Deploy</p>
-                        </div>
-                    </div>
-                    <a href="https://jagoflutter.com/JagoEvent" target="_blank" rel="noopener noreferrer"
-                        class="mt-6 flex items-center justify-center gap-2 w-full py-3 bg-primary-600 text-white font-semibold rounded-xl hover:bg-primary-500 transition-colors text-sm">
-                        Dapatkan Full Source Code
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                        </svg>
-                    </a>
-                    <div class="mt-4 pt-4 border-t border-white/10 text-center">
-                        <p class="text-surface-400 text-sm">Bagian dari program</p>
-                        <p class="text-white font-bold text-lg mt-1">Advanced Flutter Class</p>
-                        <p class="text-primary-400 text-sm mt-1">jagoflutter.com</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     {{-- CTA Section --}}
     <section class="py-20 lg:py-28 bg-gradient-to-r from-primary-600 to-primary-800 relative overflow-hidden">
         <div class="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 class="text-3xl sm:text-4xl font-bold text-white">Mulai Sekarang</h2>
             <p class="mt-4 text-lg text-primary-100 max-w-2xl mx-auto">
-                Bergabung dengan ribuan pengguna yang sudah mempercayai JagoEvent sebagai platform tiket event
+                Bergabung dengan ribuan pengguna yang sudah mempercayai KarcisDigital sebagai platform tiket event
                 pilihan
                 mereka.
             </p>
@@ -857,7 +705,7 @@
                                     d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
                             </svg>
                         </div>
-                        <span class="text-xl font-bold text-white">JagoEvent</span>
+                        <span class="text-xl font-bold text-white">KarcisDigital</span>
                     </div>
                     <p class="mt-4 text-sm max-w-sm">Platform marketplace tiket event terpercaya di Indonesia. Beli dan
                         jual tiket event dengan mudah dan aman.</p>
@@ -882,7 +730,7 @@
                 </div>
             </div>
             <div class="mt-8 pt-8 border-t border-surface-800 text-sm text-center">
-                &copy; {{ date('Y') }} JagoEvent. All rights reserved.
+                &copy; {{ date('Y') }} KarcisDigital. All rights reserved.
             </div>
         </div>
     </footer>
